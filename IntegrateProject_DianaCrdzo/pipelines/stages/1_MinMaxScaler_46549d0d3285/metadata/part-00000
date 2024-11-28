@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1732789357046,"sparkVersion":"3.5.3","uid":"MinMaxScaler_46549d0d3285","paramMap":{"outputCol":"scaled_features","inputCol":"features"},"defaultParamMap":{"outputCol":"MinMaxScaler_46549d0d3285__output","max":1.0,"min":0.0}}
