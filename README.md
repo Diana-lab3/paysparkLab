@@ -14,5 +14,7 @@ Para los datos de las partidas de ajedrez tomamos estos datos: https://www.kaggl
 Para los datos que nos permitieron entrenar el modelo y realizar el modelo sobre riesgos de enfermedad cardíaca tomamnos esta base de datos: https://www.kaggle.com/code/desalegngeb/heart-disease-predictions
 
 Programa de entrnamiento Noviembre de 2024
-BootCamp para aprender PySpark, con Spark Machine Learning, analítica avanzada, Koalas, Streaming y Databricks
+BootCamp para aprender PySpark, con Spark Machine Learning, analítica avanzada, Koalas, Streaming y Databricks.
+
+Por: Diana Paola Cardozo
 
