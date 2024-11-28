@@ -4,8 +4,11 @@ Curso práctico, para aprender análisis Big Data con Apache Spark y Python.
 En este curso hemos estudiado los temas: 
 
 ✅ Sobre el Big Data y la computación paralela
+
 ✅ A trabajar con Spark RDDs en pyspark
+
 ✅ A trabajar con Spark SQL y sus DataFrames en pyspark
+
 ✅ A trabajar con Spark MLlib en pyspark
 
 Para realizar nuestros proyectos tomamos como referencia a Kaggle que ha facilitado los insumos necesarios para acceder a bases de datos de prueba. Les comapartiré los recursos que he utilizado.
